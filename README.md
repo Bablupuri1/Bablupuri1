@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://i.pinimg.com/originals/b9/04/cc/b904cc9c75fcefcd4a10cbadc98f5aaa.jpg" width="2000px">
 
 
 <h1 align="center">Hi 👋, I'm Bablu kumar</h1>
