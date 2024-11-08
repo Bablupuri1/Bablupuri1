@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bablupuri1
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Build Something new Software Field
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablupuri1&label=Profile%20views&color=0e75b6&style=flat" alt="bablupuri1" /> </p>
 
-- 🔭 I’m currently studying Computer science **Educational website**
+- 🔭 I’m currently studying Computer science from Hyderabad in Naresh It **Educational website**
 
-- 🌱 I’m currently learning **java,bca course,web developer**
+- 🌱 I’m currently learning **Java Full Stack Developer  And also React Developer**
 
 - ⚡ Fun fact **I am funny**
 
