@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bablugoswami123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bablugoswami123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/easycollege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easycollege" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@safarengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easycollege" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@bablukumar763301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bablukumar763301" height="30" width="40" /></a>
 </p>
 
